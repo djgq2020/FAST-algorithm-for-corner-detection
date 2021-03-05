@@ -1,0 +1,38 @@
+verilog xil_defaultlib --include "../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/ec67/hdl" --include "../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/70cf/hdl" --include "../../../../miz_sys.srcs/sources_1/bd/miz_sys/ip/miz_sys_processing_system7_0_0" --include "../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/58e2/hdl" --include "../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/85a3" \
+"../../../bd/miz_sys/ip/miz_sys_processing_system7_0_0/sim/miz_sys_processing_system7_0_0.v" \
+"../../../bd/miz_sys/ip/miz_sys_v_axi4s_vid_out_0_0/sim/miz_sys_v_axi4s_vid_out_0_0.v" \
+"../../../bd/miz_sys/ip/miz_sys_clk_wiz_0_0/miz_sys_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/miz_sys/ip/miz_sys_clk_wiz_0_0/miz_sys_clk_wiz_0_0.v" \
+"../../../bd/miz_sys/ip/miz_sys_util_vector_logic_0_0/sim/miz_sys_util_vector_logic_0_0.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/AXIvideo2Mat.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/CvtColor.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/Dilate.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/Duplicate.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/FAST_t_opr.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/FAST_t_opr_core_bkbM.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/FAST_t_opr_k_buf_eOg.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/fifo_w8_d1_A.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/fifo_w8_d20000_A.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_ap_rst_n_if.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_CONTROL_BUS_if.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_mbkb.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_mcud.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_mdEe.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_mpcA.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/hls_fast_corner_top.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/Mat2AXIvideo.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/max_int_s.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/min_int_s.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/PaintMask.v" \
+"../../../../miz_sys.srcs/sources_1/bd/miz_sys/ipshared/c421/hdl/verilog/reg_int_s.v" \
+"../../../bd/miz_sys/ip/miz_sys_hls_fast_corner_0_1/sim/miz_sys_hls_fast_corner_0_1.v" \
+"../../../bd/miz_sys/ip/miz_sys_xbar_1/sim/miz_sys_xbar_1.v" \
+"../../../bd/miz_sys/ip/miz_sys_xbar_0/sim/miz_sys_xbar_0.v" \
+"../../../bd/miz_sys/ip/miz_sys_auto_pc_0/sim/miz_sys_auto_pc_0.v" \
+"../../../bd/miz_sys/ip/miz_sys_auto_pc_1/sim/miz_sys_auto_pc_1.v" \
+"../../../bd/miz_sys/sim/miz_sys.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

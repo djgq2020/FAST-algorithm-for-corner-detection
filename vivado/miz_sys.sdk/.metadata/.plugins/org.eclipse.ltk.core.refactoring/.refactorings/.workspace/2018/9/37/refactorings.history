@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/miz_sys_wrapper_hw_platform_0" element2="/miz_sys_wrapper_hw_platform_1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1536666287963"/>&#x0A;<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/miz_sys_wrapper_hw_platform_0" element2="/miz_sys_wrapper_hw_platform_1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1536676455391"/>
+</session>

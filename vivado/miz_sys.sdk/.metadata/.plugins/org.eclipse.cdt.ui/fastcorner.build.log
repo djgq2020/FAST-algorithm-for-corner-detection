@@ -1,0 +1,35 @@
+18:17:42 **** Auto Build of configuration Debug for project fastcorner ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../fastcorner_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+In file included from ../../fastcorner_bsp/ps7_cortexa9_0/include/xil_printf.h:12:0,
+                 from ../../fastcorner_bsp/ps7_cortexa9_0/include/xil_io.h:65,
+                 from ../../fastcorner_bsp/ps7_cortexa9_0/include/xaxivdma_hw.h:82,
+                 from ../../fastcorner_bsp/ps7_cortexa9_0/include/xaxivdma.h:317,
+                 from ../src/main.c:2:
+../src/main.c: In function 'main':
+../../fastcorner_bsp/ps7_cortexa9_0/include/xparameters.h:345:59: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+ #define XPAR_HLS_FAST_CORNER_0_S_AXI_CONTROL_BUS_BASEADDR 0x43C00000
+                                                           ^
+../src/main.c:152:50: note: in expansion of macro 'XPAR_HLS_FAST_CORNER_0_S_AXI_CONTROL_BUS_BASEADDR'
+  int status = XHls_fast_corner_Initialize(&fast, XPAR_HLS_FAST_CORNER_0_S_AXI_CONTROL_BUS_BASEADDR);
+                                                  ^
+Finished building: ../src/main.c
+ 
+Building target: fastcorner.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../fastcorner_bsp/ps7_cortexa9_0/lib -o "fastcorner.elf"  ./src/lena.o ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: fastcorner.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size fastcorner.elf  |tee "fastcorner.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+1077708	   1160	  22600	1101468	 10ce9c	fastcorner.elf
+Finished building: fastcorner.elf.size
+ 
+
+18:17:43 Build Finished (took 1s.631ms)
+

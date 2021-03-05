@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]L:\REV2019\MZ7XAB\04_example_HLS_IMAGE\04_example_HLS_IMAGE\CH11_fastcorner\prj\vivado_project\fast_corners\miz_sys\miz_sys.sdk\fsbl\Debug\fsbl.elf
+	L:\REV2019\MZ7XAB\04_example_HLS_IMAGE\04_example_HLS_IMAGE\CH11_fastcorner\prj\vivado_project\fast_corners\miz_sys\miz_sys.sdk\miz_sys_wrapper_hw_platform_0\miz_sys_wrapper.bit
+	L:\REV2019\MZ7XAB\04_example_HLS_IMAGE\04_example_HLS_IMAGE\CH11_fastcorner\prj\vivado_project\fast_corners\miz_sys\miz_sys.sdk\fastcorner\Debug\fastcorner.elf
+}

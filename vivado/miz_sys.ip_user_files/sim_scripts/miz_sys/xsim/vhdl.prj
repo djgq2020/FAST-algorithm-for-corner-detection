@@ -1,0 +1,12 @@
+vhdl xil_defaultlib  \
+"../../../bd/miz_sys/ip/miz_sys_axi_vdma_0_0/sim/miz_sys_axi_vdma_0_0.vhd" \
+"../../../bd/miz_sys/ip/miz_sys_rst_processing_system7_0_50M_0/sim/miz_sys_rst_processing_system7_0_50M_0.vhd" \
+"../../../bd/miz_sys/ip/miz_sys_axi_vdma_1_0/sim/miz_sys_axi_vdma_1_0.vhd" \
+"../../../bd/miz_sys/ip/miz_sys_v_tc_0_0/sim/miz_sys_v_tc_0_0.vhd" \
+"../../../bd/miz_sys/ipshared/2094/DVITransmitter.vhd" \
+"../../../bd/miz_sys/ipshared/2094/SerializerN_1.vhd" \
+"../../../bd/miz_sys/ipshared/2094/TMDSEncoder.vhd" \
+"../../../bd/miz_sys/ipshared/2094/hdmi_tx.vhd" \
+"../../../bd/miz_sys/ip/miz_sys_HDMI_FPGA_ML_0_0/sim/miz_sys_HDMI_FPGA_ML_0_0.vhd" \
+
+nosort

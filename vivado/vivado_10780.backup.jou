@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Tue Dec 26 15:32:24 2017
+# Process ID: 10780
+# Current directory: F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/vivado_project/fast_corners/miz_sys
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5760 F:\MZ7X\MZ702\s5\S05_CH11_fastcorner\vivado_project\fast_corners\miz_sys\miz_sys.xpr
+# Log file: F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/vivado_project/fast_corners/miz_sys/vivado.log
+# Journal file: F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/vivado_project/fast_corners/miz_sys\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/vivado_project/fast_corners/miz_sys/miz_sys.xpr
+set_property  ip_repo_paths  {} [current_project]
+update_ip_catalog
+set_property  ip_repo_paths  F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/vivado_project/DOC/Miz_ip_lib [current_project]
+update_ip_catalog

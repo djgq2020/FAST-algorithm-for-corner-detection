@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="miz_sys_processing_system7_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_axi_vdma_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_axi_vdma_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_rst_processing_system7_0_50M_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_rst_processing_system7_0_50M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_axi_vdma_1_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_axi_vdma_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_v_tc_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_v_tc_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_v_axi4s_vid_out_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_v_axi4s_vid_out_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_clk_wiz_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_HDMI_FPGA_ML_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_HDMI_FPGA_ML_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_util_vector_logic_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_util_vector_logic_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_hls_fast_corner_0_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_hls_fast_corner_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_xbar_1_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_xbar_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_xbar_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_auto_pc_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_auto_us_0_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_auto_us_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="miz_sys_auto_pc_1_synth_1" LaunchDir="F:/MZ7X/MZ702/s5/S05_CH11_fastcorner/prj/fast_corners/miz_sys/miz_sys.runs/miz_sys_auto_pc_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
